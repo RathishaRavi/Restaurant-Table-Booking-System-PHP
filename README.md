@@ -1,5 +1,5 @@
 # Restaurant-Table-Booking-System-PHP
-How to run the Restaurant Table Booking System (rtbs) Project
+To run the Restaurant Table Booking System (rtbs) Project
 
 1. Download the zip file
 
